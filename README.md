@@ -1,6 +1,6 @@
 # Social Media UI
 
-This is a social media user interface designed for JavaScript React and SCSS. It features a beautiful user interface perfect for anyone who wants to create their own social media platform. To get started, simply run the application on port 3000.
+This is a social media user interface designed for JavaScript React and SCSS. It features a beautiful user interface perfect for anyone who wants to create their own social media platform. To get started, simply run the application on `port 3000`.
 
 ## Requirements
 
@@ -23,4 +23,4 @@ Once the application is running, you can use it to create your own social media 
 
 ## Credits
 
-The Social Media UI was created by Homayoun. If you have any questions or comments, please feel free to reach out to me at [EMAIL ADDRESS HERE]. I hope you find this project useful and that it helps you to create a successful social media platform!
+The Social Media UI was created by Homayoun. If you have any questions or comments, please feel free to reach out to me at homayoun763@gmail.com . I hope you find this project useful and that it helps you to create a successful social media platform!
